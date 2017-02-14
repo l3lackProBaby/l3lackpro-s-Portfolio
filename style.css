@@ -5,8 +5,10 @@ float: left ;
 border-style:round;
 border-radius:20px;
   border-color:red'
+  align
 
 } 
 
-body { background-color:Black;
+body { background-color:grey;
+  text-align: center;
 } 
