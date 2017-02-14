@@ -1,8 +1,12 @@
-img {  height: 50px;
-width:50px;
+img {  height: 500px;
+width:500px;
 margin:10px;
-float:middle;
-border-style:round} 
+float: left ;
+border-style:round;
+border-radius:20px;
+  border-color:red'
+
+} 
 
 body { background-color:Black;
 } 
