@@ -5,7 +5,7 @@ float: center;
 border-style:round;
 border-radius:20px;
   border-color:red;
-  margin: 20px;
+  margin: 10px;
   
  
 
@@ -17,6 +17,8 @@ body { background-color:black;
 
 h1 {
 margin:200px;
+  font-family:"Monaco";
+  
 
 
 }
