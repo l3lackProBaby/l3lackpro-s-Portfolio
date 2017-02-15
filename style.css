@@ -46,7 +46,8 @@ li a {
 }
 
 li a:hover {
-    background-color: #555;
-    color: red;
-    float: center;
+    background-color: red;
+   float:center
+  color: red;
+    
 }
