@@ -62,13 +62,13 @@ li a:hover {
 
 
 .under {
-     background-color: maroon;
-     color: darkred;
+     background-color: cyan;
+     color: maroon;
   size: 30px
   
 }
 
-p  {    margin: 200px;
+p  {    margin: 40px;
      
 
 }
