@@ -3,7 +3,7 @@ width:200px;
 float: left;
 border-style:dotted;
 border-radius:40px;
-  border-color:black;
+  border-color:#ff6666;
   ;
   
  
@@ -22,7 +22,7 @@ margin:20px;
 
 }
 
-h4{    color:darkred;
+h4{    color:#ff0000;
   background-color: grey;
 }
 
@@ -40,7 +40,7 @@ li {
 
 li a {
     display: block;
-    color: white;
+    color: #ff0000;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -48,7 +48,7 @@ li a {
 
 
 li a:hover {
-    background-color: #111;
+    background-color: #ff6666;
 }
 
 
@@ -56,16 +56,10 @@ li a:hover {
 .l3lackpro  {   font-family:sans-serif;
       font-size: 30;
   
- 
-
-}
 
 
-.under {
-     background-color: cyan;
-     color: maroon;
-  size: 30px
-  
+
+
 }
 
 p  {    margin: 40px;
