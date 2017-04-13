@@ -23,7 +23,7 @@ margin:20px;
 
 }
 
-h4{    color:#ff0000;
+h4{    color:#ff6666;
   background-color: grey;
 }
 
@@ -36,7 +36,7 @@ ul {
 }
 
 li {
-    float: right;
+    float: left;
 }
 
 li a {
