@@ -16,7 +16,7 @@ body { background-color:#ff6666;
 
 h1 {
 margin:20px;
-  font-family:"Monaco";
+  font-family:"Arial Bold";
   
 
 
@@ -35,7 +35,7 @@ ul {
 }
 
 li {
-    float: right;
+    float: left;
 }
 
 li a {
