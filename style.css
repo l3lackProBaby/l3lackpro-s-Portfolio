@@ -8,6 +8,7 @@ float: left;
 	height:300px;
 	margin:3px;
 	float:center;
+	display:block; margin:auto;
 }
  @font-face {
     font-family: bubble;
