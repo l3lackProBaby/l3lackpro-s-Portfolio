@@ -1,10 +1,13 @@
 img {  height: 46px;
 width:46px;
 float: left;
-  
- 
+}
+ @font-face {
+    font-family: bubble;
+    src: url(AzzurBubblegum.ttf);
 
-} 
+} div {
+	font-family: bubble; }
 
 body  {
     background-image: url("minecraft bkgrnd.jpg");
