@@ -2,6 +2,11 @@ img {  height: 46px;
 width:46px;
 float: left;
 }
+
+.lel {
+width:500px;
+	height:200px;
+}
  @font-face {
     font-family: bubble;
     src: url(AzzurBubblegum.ttf);
