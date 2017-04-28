@@ -9,6 +9,11 @@ float: left;
 } div {
 	font-family: bubble;
    	 margin:20px; }
+.space {
+	margin:30px;
+	font-size:50px;
+}
+
 
 body  {
     background-image: url("minecraft bkgrnd.jpg");
